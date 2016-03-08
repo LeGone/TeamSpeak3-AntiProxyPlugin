@@ -1,5 +1,5 @@
 # Teamspeak 3 Plugin. Anti-Highpinger/Proxy
-This plugin checks the ping of every player and the country - based on his IP-address. \\
+This plugin checks the ping of every player and the country - based on his IP-address. \
 It is also possible to write chat-messages to the BOT. Text like "enable"/"on" or "disable"/"off".
 
 # Why would someone want such a plugin?
